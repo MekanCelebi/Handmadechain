@@ -1,0 +1,15 @@
+{
+    "name": "HandmadeChain NFT #1",
+    "description": "Bu NFT, HandmadeChain platformunda oluşturulmuş el yapımı bir ürünü temsil eder.",
+    "image": "https://ipfs.io/ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG",
+    "attributes": [
+        {
+            "trait_type": "Kategori",
+            "value": "El Yapımı"
+        },
+        {
+            "trait_type": "Üretici",
+            "value": "HandmadeChain"
+        }
+    ]
+} 
